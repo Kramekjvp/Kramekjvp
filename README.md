@@ -17,7 +17,7 @@ Embedded systems;
 
  - How to Reach Me 📫 -
 You can contact me via email: joaovitorkramek@gmail.com
-Or find me on LinkedIn: www.linkedin.com/in/joão-vitor-kramek-56208a2b8
+Or find me on Linkedin: www.linkedin.com/in/joão-vitor-kramek-56208a2b8
 
 
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
@@ -41,7 +41,7 @@ Computação embarcada
 
  - Como me contatar 📫 - 
 Você pode entrar em contato comigo através do e-mail: joaovitorkramek@gmail.com
-Ou me encontrar no LinkedIn: www.linkedin.com/in/joão-vitor-kramek-56208a2b8
+Ou me encontrar no Linkedin: www.linkedin.com/in/joão-vitor-kramek-56208a2b8
 <!---
 Kramekjvp/Kramekjvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
